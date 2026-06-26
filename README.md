@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Vinay, an ECE undergrad passionate about the intersection of hardware and intelligence. I enjoy building smart systems that combine Android development, AI/ML, and embedded technologies. With hands-on experience in Python, OpenCV, and real-time hardware integration, I focus on creating solutions where code meets circuits. I'm currently learning deep learning and TensorFlow to expand my skills in machine intelligence. Whether it’s mobile apps, computer vision, or embedded systems, I’m always exploring and building to turn ideas into real-world applications.
+Hey, I'm Vinay — an ECE undergrad at DTU who got into AI through hardware. I started out designing PCBs and embedded systems, and somewhere along the way got hooked on making things "smart," so now most of my time goes into building LLM-powered tools, RAG pipelines, and ML/CV systems — while still tinkering with circuits when I get the chance. I like projects that go the full distance from idea to something actually running, whether that's a model, an app, or a board.
 
 
 ## 🌐 Socials:
