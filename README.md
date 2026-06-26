@@ -40,7 +40,7 @@ Hey, I'm Vinay — an ECE undergrad at DTU who got into AI through hardware. I s
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-607D8B?style=for-the-badge)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-009688?style=for-the-badge)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00A98F?style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
