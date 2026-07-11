@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Vinay — an ECE undergrad at DTU who got into AI through hardware. I started out designing PCBs and embedded systems, and somewhere along the way got hooked on making things "smart," so now most of my time goes into building LLM-powered tools, RAG pipelines, and ML/CV systems — while still tinkering with circuits when I get the chance. I like projects that go the full distance from idea to something actually running, whether that's a model, an app, or a board.
+Hey, I'm Vinay an ECE undergrad at DTU who got into AI through hardware. I started out designing PCBs and embedded systems, and somewhere along the way got hooked on making things "smart," so now most of my time goes into building LLM-powered tools, RAG pipelines, and ML/CV systems while still tinkering with circuits when I get the chance. I like projects that go the full distance from idea to something actually running, whether that's a model, an app, or a board.
 
 
 ## 🌐 Socials:
