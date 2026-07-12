@@ -46,13 +46,21 @@ Hey, I'm Vinay an ECE undergrad at DTU who got into AI through hardware. I start
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VinayM1&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VinayM1&theme=gotham&hide_border=false&type=svg)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VinayM1&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VinayM1&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/VinayM1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VinayM1&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="VinayM1's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=VinayM1&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="VinayM1's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VinayM1&icon=0&color=0)](https://visitcount.itsvg.in)
