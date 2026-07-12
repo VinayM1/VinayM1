@@ -55,7 +55,7 @@ Hey, I'm Vinay an ECE undergrad at DTU who got into AI through hardware. I start
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/VinayM1/VinayM1/output/output.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
